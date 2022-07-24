@@ -1,0 +1,3 @@
+name: CronCommands
+main: dev.handschrift.init.CronCommands
+version: 1.0.0
